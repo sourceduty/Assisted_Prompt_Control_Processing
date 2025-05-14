@@ -1,0 +1,7 @@
+APCP Type,Description,Example Use Case,Manual Oversight Required
+Pre-Prompt Approval,User must approve the AI prompt before execution,Financial risk analysis,Yes
+Post-Prompt Review,Output is reviewed by user after execution but before final decision,Legal document drafting,Yes
+Real-Time Supervision,"Human monitors AI interaction live, with ability to intervene",Medical diagnosis assistant,Yes
+Batch Processing Control,Multiple prompts reviewed and approved in bulk before processing,Data audit across systems,Yes
+Embedded Checkpoints,Prompts include required approval steps during execution,Multi-stage workflow automation,Yes
+Hybrid Automation,Combines automated checks with manual approvals at key points,Regulatory compliance monitoring,Yes
